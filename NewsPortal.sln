@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPortal.Server", "NewsPortal.Server\NewsPortal.Server.csproj", "{452CDD35-0F89-43FF-A067-F3D8853023E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPortal.Server.Lib", "NewsPortal.Server.Lib\NewsPortal.Server.Lib.csproj", "{3EEE4897-AA3B-4A0D-8037-58FCBA886A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPortal.Server.Lib.Test", "NewsPortal.Server.Lib.Test\NewsPortal.Server.Lib.Test.csproj", "{8F2B6A2C-7CCB-46C4-9520-B803643CA2A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{452CDD35-0F89-43FF-A067-F3D8853023E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{452CDD35-0F89-43FF-A067-F3D8853023E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{452CDD35-0F89-43FF-A067-F3D8853023E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEE4897-AA3B-4A0D-8037-58FCBA886A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEE4897-AA3B-4A0D-8037-58FCBA886A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEE4897-AA3B-4A0D-8037-58FCBA886A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEE4897-AA3B-4A0D-8037-58FCBA886A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2B6A2C-7CCB-46C4-9520-B803643CA2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2B6A2C-7CCB-46C4-9520-B803643CA2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2B6A2C-7CCB-46C4-9520-B803643CA2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2B6A2C-7CCB-46C4-9520-B803643CA2A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
